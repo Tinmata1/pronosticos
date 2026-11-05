@@ -1,0 +1,4 @@
+{"name": "Pronósticos de futbol", "short_name": "Pronósticos",
+ "start_url": "./", "display": "standalone", "background_color": "#141413", "theme_color": "#141413",
+ "icons": [{"src": "icono-180.png", "sizes": "180x180", "type": "image/png"},
+           {"src": "icono.svg", "sizes": "any", "type": "image/svg+xml"}]}
